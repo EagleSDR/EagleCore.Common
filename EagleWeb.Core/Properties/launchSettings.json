@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "EagleWeb.Core": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:/Users/Roman/Desktop/EagleSDR/\""
-    }
-  }
-}
